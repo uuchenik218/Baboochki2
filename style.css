@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background: red;
+    padding: 25px;
+}
+header a{
+    text-decoration: none;
+    background: white;
+    border-radius: 10px;
+    margin: 25px;
+    padding: 10px;
+    color:black;
+    border:solid 3px black;
+}
+
+footer{
+ background-color:#FFC700;   
+}
+footer p{
+    color: black;
+    text-decoration: none;
+}
+.pon{
+    weight:95px;
+    height: 88px;
+}
+h1{
+    text-align: center;
+}
+p{
+    color: black;
+    text-decoration: none;
+}
